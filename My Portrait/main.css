@@ -1,0 +1,19 @@
+body{
+	margin:0;
+	padding: 0;
+	background:#000;
+}
+
+p {
+	font-size:8px;
+	line-height:8px;
+	text-align:justify;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background: url(https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.15752-9/315434955_516128180406324_3258038328079286503_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFIxxCueAEVN-MN63EkhTBAyz5P4V0FQxHLPk_hXQVDEYa0MD3zFKB2m_r4ryiO_6Dga1HGjYS5VvPxTJJ34VGz&_nc_ohc=Kc5YF6rDvTUAX9TNy5H&_nc_ht=scontent.fmnl4-6.fna&oh=03_AdS5t0NXgi-77JKZujLshFBF6twl-KAkZAWBoQdxjAv6gQ&oe=63B3F77B) no-repeat center/cover;
+	background-attachment: fixed;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: rgb(225, 225, 255, 0);
+}
